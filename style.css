@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
+body {
+  background: NavajoWhite;
+}
+.back {
+  background-color: Maroon;
+}
+#titlefont {
+  font-family: "Permanent Marker", cursive;
+  color: LavenderBlush;
+}
+
+img {
+  border: 3px solid #dddddd;
+  border-color: DeepSkyBlue;
+  border-radius: 50%;
+  margin: 3px;
+  padding: 2vw;
+}
+p {
+  border: 3px double;
+}
+p > span {
+  color: Crimson;
+  font-family: "Permanent Marker", cursive;
+}
+h2 {
+  color: rgb(255, 160, 122);
+  font-family: monospace;
+}
